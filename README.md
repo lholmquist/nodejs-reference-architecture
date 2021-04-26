@@ -105,3 +105,7 @@ As a minimum, any modules recommended as part of this reference architecture sho
 ## Contributing
 
 To Contribute to this project, please see the [Contributing Guide](./CONTRIBUTING.md).
+
+## Contributors
+
+* Michael Dawson - Node.js lead for Red Hat and IBM
