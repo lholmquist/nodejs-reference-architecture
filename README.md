@@ -109,3 +109,4 @@ To Contribute to this project, please see the [Contributing Guide](./CONTRIBUTIN
 ## Contributors
 
 * Michael Dawson - Node.js lead for Red Hat and IBM
+* Lucas Holmquist - Sr. Software Engineer - Red Hat
